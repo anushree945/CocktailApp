@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/CocktailApp/static/js/main.d5578986.js",
+    "index.html": "/CocktailApp/index.html",
+    "main.d5578986.js.map": "/CocktailApp/static/js/main.d5578986.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d5578986.js"
+  ]
+}
